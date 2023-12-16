@@ -12,6 +12,7 @@ class User {
 
         System.out.println("Name is " + name + ", is admin: " + admin);
     }
+
 }
 
 class Launcher {
